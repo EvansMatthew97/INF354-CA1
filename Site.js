@@ -5,7 +5,8 @@ const buttonActions = [
 	},
 	{
 		id: "button_u14241936",
-		message: "",
+		message: "I am excited for INF354 because; at the moment I have no idea what the FUCK I am doing, send help",
+
 	},
 ];
 	
