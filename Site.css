@@ -3,6 +3,11 @@ body {
 	font-size: 24px;
 }
 
+p {
+	color: #f09;
+	font-weight: 700;
+}
+
 button {
 	border: 2px solid #f09;
 	background: #fff;
